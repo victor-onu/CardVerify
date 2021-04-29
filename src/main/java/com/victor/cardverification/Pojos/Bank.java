@@ -3,7 +3,7 @@ package com.victor.cardverification.Pojos;
 import lombok.Data;
 
 @Data
-public class Bank {
+public  class Bank {
     private String name;
     private String url;
     private String phone;
